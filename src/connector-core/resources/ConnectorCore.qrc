@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/media-playback-pause-3.png</file>
+        <file>images/media-playback-start-3.png</file>
+        <file>images/media-playback-stop-3.png</file>
+        <file>images/media-skip-forward-3.png</file>
+        <file>images/media-playlist-repeat.png</file>
+        <file>images/oscilloscope.png</file>
+        <file>images/32x32/database_green.png</file>
+        <file>images/32x32/network_adapter.png</file>
+        <file>images/32x32/plugin_go.png</file>
+        <file>images/32x32/view-sort-ascending-2.png</file>
+        <file>images/32x32/view-sort-descending-2.png</file>
+        <file>images/32x32/cross.png</file>
+        <file>images/32x32/delete.png</file>
+        <file>images/32x32/linechart.png</file>
+        <file>images/32x32/vcard_edit.png</file>
+        <file>images/32x32/add.png</file>
+        <file>images/RCA_Indian_Head_test_pattern.JPG</file>
+        <file>images/terbit_logo_small.png</file>
+        <file>images/32x32/find.png</file>
+        <file>images/32x32/setting_tools.png</file>
+        <file>images/32x32/function.png</file>
+        <file>images/32x32/cog.png</file>
+        <file>images/32x32/database_connect.png</file>
+        <file>images/32x32/calculate_sheet.png</file>
+        <file>images/12x12/application_double.png</file>
+        <file>images/12x12/cross.png</file>
+        <file>images/12x12/pinned.png</file>
+        <file>images/12x12/unpinned.png</file>
+        <file>images/32x32/column_tree.png</file>
+        <file>images/32x32/table.png</file>
+        <file>images/32x32/microscope.png</file>
+        <file>images/32x32/chart_line.png</file>
+        <file>images/32x32/script_yellow.png</file>
+        <file>images/32x32/lightning.png</file>
+        <file>images/32x32/folder.png</file>
+        <file>images/32x32/disk.png</file>
+        <file>images/32x32/script_code.png</file>
+        <file>images/32x32/system-shutdown.png</file>
+        <file>images/32x32/broom.png</file>
+        <file>images/connector_logo.png</file>
+    </qresource>
+</RCC>

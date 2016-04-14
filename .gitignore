@@ -1,0 +1,12 @@
+build-debug/
+build-release/
+*.obj
+*.user
+*.bak
+*.qm
+*.bak
+*_moc*
+*moc_*
+*makefile*
+*.pro.*
+*.autosave
