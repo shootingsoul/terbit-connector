@@ -1,5 +1,6 @@
 # Terbit Connector
-Terbit Connector enables rapid application development of a PC-based interface to embedded systems.
+Terbit Connector enables rapid application development of a PC-based interface to embedded systems.  Terbit Connector provides plotting, logging, scripting, and signal analysis.  You provide plugins to support your custom devices, displays, and calculations.
+
 ## System Requirements
 1. QT 5.3+
 2. Boost 1.55+
